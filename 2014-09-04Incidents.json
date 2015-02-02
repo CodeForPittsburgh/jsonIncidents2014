@@ -1,0 +1,3193 @@
+[
+    {
+        "incident": {
+            "lat": "40.4524228",
+            "lng": "-80.0140043",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "01:00:00",
+            "incidentnumber": "14155734",
+            "address": "Brighton Road & Western Avenue, Pittsburgh, PA 15212, USA",
+            "type": "ARREST",
+            "age": "24",
+            "gender": "M",
+            "neighbornood": "Allegheny West",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "2707",
+                    "description": "Propulsion of Missiles"
+                },
+                {
+                    "section": "903",
+                    "description": "Criminal Conspiracy."
+                },
+                {
+                    "section": "2705",
+                    "description": "Recklessly Endangering Another Person."
+                },
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "3304(a)(1)",
+                    "description": "CRIMINAL MISCHIEF-Prop Damage By Fire, Explosives, or Other Dangerous Means"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4507695",
+            "lng": "-80.001375",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "01:38:00",
+            "incidentnumber": "14176489",
+            "address": "Anderson Street & Stockton Avenue, Pittsburgh, PA 15212, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Allegheny Center",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3736",
+                    "description": "Reckless Driving"
+                },
+                {
+                    "section": "3802(a)(1)",
+                    "description": "DUI - General Impairment"
+                },
+                {
+                    "section": "3802(b)",
+                    "description": "DUI - High Rate of Alchol - BAC >=.10% <.16%"
+                },
+                {
+                    "section": "3703",
+                    "description": "Driving Upon Sidewalk."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4507695",
+            "lng": "-80.001375",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "01:45:00",
+            "incidentnumber": "14176489",
+            "address": "Anderson Street & Stockton Avenue, Pittsburgh, PA 15212, USA",
+            "type": "ARREST",
+            "age": "27",
+            "gender": "M",
+            "neighbornood": "Allegheny Center",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3736",
+                    "description": "Reckless Driving"
+                },
+                {
+                    "section": "3802(a)(1)",
+                    "description": "DUI - General Impairment"
+                },
+                {
+                    "section": "3802(b)",
+                    "description": "DUI - High Rate of Alchol - BAC >=.10% <.16%"
+                },
+                {
+                    "section": "3703",
+                    "description": "Driving Upon Sidewalk."
+                },
+                {
+                    "section": "3334",
+                    "description": "Turning Movements and Required Signals."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.468714",
+            "lng": "-80.026527",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "09:50:00",
+            "incidentnumber": "14176885",
+            "address": "2600 Stayton Street, Pittsburgh, PA 15212, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Marshall-Shadeland",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3921(a)",
+                    "description": "Theft by Unlawful Taking or Disposition - Movable item"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4561811",
+            "lng": "-80.0026777",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "09:53:00",
+            "incidentnumber": "14176676",
+            "address": "East North Avenue & Cedar Avenue, Pittsburgh, PA 15212, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Allegheny Center",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "601.08(a)",
+                    "description": "Alcohol or Liquor Consumption on Streets or Sidewalks"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4829481",
+            "lng": "-80.0424652",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "10:47:00",
+            "incidentnumber": "14176708",
+            "address": "1800 Morrell Street, Pittsburgh, PA 15212, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Brighton Heights",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "9488",
+                    "description": "False  Burglar Alarm"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4789",
+            "lng": "-80.034899",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "11:25:00",
+            "incidentnumber": "14176726",
+            "address": "3500 McClure Avenue, Pittsburgh, PA 15212, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Brighton Heights",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "9488",
+                    "description": "False  Burglar Alarm"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4563523",
+            "lng": "-80.0020866",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "11:39:00",
+            "incidentnumber": "14176741",
+            "address": "400 East North Avenue, Pittsburgh, PA 15212, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Central Northside",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "9488",
+                    "description": "False  Burglar Alarm"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4477936",
+            "lng": "-80.0037296",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "12:19:00",
+            "incidentnumber": "14176765",
+            "address": "100 Federal Street, Pittsburgh, PA 15212, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "North Shore",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "9488",
+                    "description": "False  Burglar Alarm"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4577024",
+            "lng": "-80.0275178",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "12:34:00",
+            "incidentnumber": "14176781",
+            "address": "1400 Columbus Avenue, Pittsburgh, PA 15233, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Brighton Heights",
+            "councildistrict": "6",
+            "zipcode": "15233",
+            "sections": [
+                {
+                    "section": "9488",
+                    "description": "False  Burglar Alarm"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4577024",
+            "lng": "-80.0275178",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "12:36:00",
+            "incidentnumber": "14176781",
+            "address": "1400 Columbus Avenue, Pittsburgh, PA 15233, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Brighton Heights",
+            "councildistrict": "6",
+            "zipcode": "15233",
+            "sections": [
+                {
+                    "section": "9488",
+                    "description": "False  Burglar Alarm"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4572902",
+            "lng": "-80.00722",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:08:00",
+            "incidentnumber": "14176869",
+            "address": "Federal Street & Hemlock Street, Pittsburgh, PA 15212, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Central Northside",
+            "councildistrict": "6",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "9015",
+                    "description": "Failure To Appear\/Arrest on Attachment Order"
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)*",
+                    "description": "Delivery of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4572902",
+            "lng": "-80.00722",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:08:00",
+            "incidentnumber": "14176869",
+            "address": "Federal Street & Hemlock Street, Pittsburgh, PA 15212, USA",
+            "type": "ARREST",
+            "age": "62",
+            "gender": "M",
+            "neighbornood": "Central Northside",
+            "councildistrict": "6",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "9015",
+                    "description": "Failure To Appear\/Arrest on Attachment Order"
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)*",
+                    "description": "Delivery of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4572902",
+            "lng": "-80.00722",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:10:00",
+            "incidentnumber": "14176869",
+            "address": "Federal Street & Hemlock Street, Pittsburgh, PA 15212, USA",
+            "type": "ARREST",
+            "age": "57",
+            "gender": "M",
+            "neighbornood": "Central Northside",
+            "councildistrict": "6",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "9015",
+                    "description": "Failure To Appear\/Arrest on Attachment Order"
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)*",
+                    "description": "Delivery of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4658103",
+            "lng": "-80.0101548",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:30:00",
+            "incidentnumber": "14177013",
+            "address": "200 Seabright Street, Pittsburgh, PA 15214, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Perry South",
+            "councildistrict": "6",
+            "zipcode": "15214",
+            "sections": [
+                {
+                    "section": "029",
+                    "description": "Missing Juvenile"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.456031",
+            "lng": "-80.006486",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:50:00",
+            "incidentnumber": "14176947",
+            "address": "1200 Federal Street, Pittsburgh, PA 15212, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Central Northside",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4730182",
+            "lng": "-80.0360697",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "16:52:00",
+            "incidentnumber": "14176942",
+            "address": "McClure Avenue & Gurnee Street, Pittsburgh, PA 15212, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Marshall-Shadeland",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4655187",
+            "lng": "-79.9793196",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "17:02:00",
+            "incidentnumber": "14176950",
+            "address": "200 East Ohio Street, Pittsburgh, PA 15212, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Allegheny Center",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3503(b)(1)(i)",
+                    "description": "Actual Communication"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.482505",
+            "lng": "-80.040162",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "17:30:00",
+            "incidentnumber": "14177100",
+            "address": "1600 Termon Avenue, Pittsburgh, PA 15212, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Brighton Heights",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4719641",
+            "lng": "-80.0293093",
+            "zone": "Zone 1",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "20:00:00",
+            "incidentnumber": "14175167",
+            "address": "3000 Wadlow Street, Pittsburgh, PA 15212, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Marshall-Shadeland",
+            "councildistrict": "1",
+            "zipcode": "15212",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(30)",
+                    "description": "Possession w\/ Intent to Del. Controlled Substance"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4304878",
+            "lng": "-79.9989132",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "02:00:00",
+            "incidentnumber": "12149990",
+            "address": "South 2nd Street, Pittsburgh, PA 15219, USA",
+            "type": "ARREST",
+            "age": "50",
+            "gender": "M",
+            "neighbornood": "Fineview",
+            "councildistrict": "3",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "2701(a)(1)",
+                    "description": "Simple Assault - Intent., Know., Reckless.Cause Bod. Injury"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.445085",
+            "lng": "-79.9737017",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "04:10:00",
+            "incidentnumber": "14176552",
+            "address": "2300 Centre Avenue, Pittsburgh, PA 15219, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Middle Hill",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "2709(a)",
+                    "description": "Harassment."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4436447",
+            "lng": "-79.9750443",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "05:15:00",
+            "incidentnumber": "14176578",
+            "address": "1700 Reed Street, Pittsburgh, PA 15219, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Crawford-Roberts",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "9093",
+                    "description": "Indirect Criminal Contempt"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.451815",
+            "lng": "-79.963111",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "06:16:00",
+            "incidentnumber": "14176930",
+            "address": "700 Cherokee Street, Pittsburgh, PA 15219, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Upper Hill",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                },
+                {
+                    "section": "4106",
+                    "description": "Access Device Fraud"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.435117964984315",
+            "lng": "-79.993138203602911",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "07:35:00",
+            "incidentnumber": "14067120",
+            "address": "900 block Second Ave",
+            "type": "ARREST",
+            "age": "23",
+            "gender": "M",
+            "neighbornood": "South Shore",
+            "councildistrict": "6",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "9015",
+                    "description": "Failure To Appear\/Arrest on Attachment Order"
+                },
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4667637",
+            "lng": "-79.9555667",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "07:45:00",
+            "incidentnumber": "14176619",
+            "address": "4200 Post Street, Pittsburgh, PA 15201, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Central Lawrenceville",
+            "councildistrict": "7",
+            "zipcode": "15201",
+            "sections": [
+                {
+                    "section": "3745",
+                    "description": "Accidents Involving Damage to Unattended Veh.or Prop."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4359335",
+            "lng": "-79.9971487",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "11:30:00",
+            "incidentnumber": "14168954",
+            "address": "600 First Avenue, Pittsburgh, PA 15219, USA",
+            "type": "ARREST",
+            "age": "17",
+            "gender": "M",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                },
+                {
+                    "section": "3921(a)",
+                    "description": "Theft by Unlawful Taking or Disposition - Movable item"
+                },
+                {
+                    "section": "3925",
+                    "description": "Receiving Stolen Property."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.436086",
+            "lng": "-79.985372",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "12:39:00",
+            "incidentnumber": "14157281",
+            "address": "1400 Locust Street, Pittsburgh, PA 15219, USA",
+            "type": "ARREST",
+            "age": "51",
+            "gender": "M",
+            "neighbornood": "Bluff",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "3921(a)",
+                    "description": "Theft by Unlawful Taking or Disposition - Movable item"
+                },
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                },
+                {
+                    "section": "3925",
+                    "description": "Receiving Stolen Property."
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                },
+                {
+                    "section": "1501",
+                    "description": "Drivers Required to be Licensed."
+                },
+                {
+                    "section": "3733",
+                    "description": "Fleeing or Attempting to Elude Police Officer"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4426801",
+            "lng": "-79.9796591",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "14:30:00",
+            "incidentnumber": "14176925",
+            "address": "2000 Rose Street, Pittsburgh, PA 15219, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Crawford-Roberts",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "3921(a)",
+                    "description": "Theft by Unlawful Taking or Disposition - Movable item"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.441132",
+            "lng": "-80.001989",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "14:45:00",
+            "incidentnumber": "14166867",
+            "address": "200 Fifth Avenue, Pittsburgh, PA 15222, USA",
+            "type": "ARREST",
+            "age": "49",
+            "gender": "M",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "6",
+            "zipcode": "15222",
+            "sections": [
+                {
+                    "section": "3503.B1I",
+                    "description": "DEF. TRESPASS ACTUAL COMMUNICATION"
+                },
+                {
+                    "section": "3929(a)(1)",
+                    "description": "Retail Theft; takes possession of, carries away, or transfers displayed merchandise"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4304878",
+            "lng": "-79.9989132",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:00:00",
+            "incidentnumber": "14020326",
+            "address": "South 2nd Street, Pittsburgh, PA 15219, USA",
+            "type": "ARREST",
+            "age": "55",
+            "gender": "M",
+            "neighbornood": "Manchester",
+            "councildistrict": "3",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.435467",
+            "lng": "-79.996404",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:00:00",
+            "incidentnumber": "14158673",
+            "address": "600 1st Avenue, Pittsburgh, PA 15219, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "9494",
+                    "description": "Summary Warrants"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.435467",
+            "lng": "-79.996404",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:00:00",
+            "incidentnumber": "14158674",
+            "address": "600 1st Avenue, Pittsburgh, PA 15219, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "9494",
+                    "description": "Summary Warrants"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.435467",
+            "lng": "-79.996404",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:00:00",
+            "incidentnumber": "14158675",
+            "address": "600 1st Avenue, Pittsburgh, PA 15219, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "9494",
+                    "description": "Summary Warrants"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4452872",
+            "lng": "-79.9782811",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "16:49:00",
+            "incidentnumber": "14176940",
+            "address": "Wylie Avenue & Wooster Street, Pittsburgh, PA 15219, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Middle Hill",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "2702",
+                    "description": "Aggravated Assault."
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "4910",
+                    "description": "Tampering with or Fabricating Physical Evidence."
+                },
+                {
+                    "section": "5104",
+                    "description": "Resisting Arrest or Other Law Enforcement."
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4452872",
+            "lng": "-79.9782811",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "16:51:00",
+            "incidentnumber": "14176940",
+            "address": "Wylie Avenue & Wooster Street, Pittsburgh, PA 15219, USA",
+            "type": "ARREST",
+            "age": "60",
+            "gender": "M",
+            "neighbornood": "Middle Hill",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "2702",
+                    "description": "Aggravated Assault."
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "4910",
+                    "description": "Tampering with or Fabricating Physical Evidence."
+                },
+                {
+                    "section": "5104",
+                    "description": "Resisting Arrest or Other Law Enforcement."
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4427226",
+            "lng": "-80.0021671",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "19:07:00",
+            "incidentnumber": "14177038",
+            "address": "Penn Avenue & 6th Street, Pittsburgh, PA 15222, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "6",
+            "zipcode": "15222",
+            "sections": [
+                {
+                    "section": "3743",
+                    "description": "Accidents Involving Damage to Attended Veh. or Property"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4810431",
+            "lng": "-79.9526709",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "20:21:00",
+            "incidentnumber": "14177092",
+            "address": "McCandless Avenue & Carnegie Street, Pittsburgh, PA 15201, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Upper Lawrenceville",
+            "councildistrict": "7",
+            "zipcode": "15201",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4810431",
+            "lng": "-79.9526709",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "20:22:00",
+            "incidentnumber": "14177092",
+            "address": "McCandless Avenue & Carnegie Street, Pittsburgh, PA 15201, USA",
+            "type": "ARREST",
+            "age": "50",
+            "gender": "M",
+            "neighbornood": "Upper Lawrenceville",
+            "councildistrict": "7",
+            "zipcode": "15201",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4392068",
+            "lng": "-79.9850103",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "21:13:00",
+            "incidentnumber": "14177131",
+            "address": "1500 Colwell Street, Pittsburgh, PA 15219, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Crawford-Roberts",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4376259",
+            "lng": "-79.984215",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "21:40:00",
+            "incidentnumber": "14177153",
+            "address": "Forbes Avenue & Marion Street, Pittsburgh, PA 15219, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bluff",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "5902(a)(2)",
+                    "description": "Prostitution - Loitering for purpose of"
+                },
+                {
+                    "section": "5902(a)(1)",
+                    "description": "Prostitution"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4376259",
+            "lng": "-79.984215",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "21:40:00",
+            "incidentnumber": "14177153",
+            "address": "Forbes Avenue & Marion Street, Pittsburgh, PA 15219, USA",
+            "type": "ARREST",
+            "age": "30",
+            "gender": "F",
+            "neighbornood": "Bluff",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "5902(a)(2)",
+                    "description": "Prostitution - Loitering for purpose of"
+                },
+                {
+                    "section": "5902(a)(1)",
+                    "description": "Prostitution"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.435806970741275",
+            "lng": "-79.972632180663282",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "22:10:00",
+            "incidentnumber": "14177167",
+            "address": "2nd Ave & Brady St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bluff",
+            "councildistrict": "6",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "5902(a)(2)",
+                    "description": "Prostitution - Loitering for purpose of"
+                },
+                {
+                    "section": "5902(a)(1)",
+                    "description": "Prostitution"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.435806970741275",
+            "lng": "-79.972632180663282",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "22:10:00",
+            "incidentnumber": "14177167",
+            "address": "2nd Ave & Brady St",
+            "type": "ARREST",
+            "age": "23",
+            "gender": "F",
+            "neighbornood": "Bluff",
+            "councildistrict": "6",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "5902(a)(2)",
+                    "description": "Prostitution - Loitering for purpose of"
+                },
+                {
+                    "section": "5902(a)(1)",
+                    "description": "Prostitution"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.3878823",
+            "lng": "-79.983566",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "01:18:00",
+            "incidentnumber": "14176476",
+            "address": "Becks Run Road & Athena Street, Pittsburgh, PA 15210, USA",
+            "type": "ARREST",
+            "age": "21",
+            "gender": "M",
+            "neighbornood": "Carrick",
+            "councildistrict": "4",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "9015",
+                    "description": "Failure To Appear\/Arrest on Attachment Order"
+                },
+                {
+                    "section": "1543",
+                    "description": "Driving While Operating Privilege is Suspended or Revoked."
+                },
+                {
+                    "section": "3714",
+                    "description": "Careless Driving"
+                },
+                {
+                    "section": "3111",
+                    "description": "Obedience to Traffic-Control Devices."
+                },
+                {
+                    "section": "3802(a)(1)",
+                    "description": "DUI - General Impairment"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.3878823",
+            "lng": "-79.983566",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "01:18:00",
+            "incidentnumber": "14176476",
+            "address": "Becks Run Road & Athena Street, Pittsburgh, PA 15210, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Carrick",
+            "councildistrict": "4",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "9015",
+                    "description": "Failure To Appear\/Arrest on Attachment Order"
+                },
+                {
+                    "section": "1543",
+                    "description": "Driving While Operating Privilege is Suspended or Revoked."
+                },
+                {
+                    "section": "3714",
+                    "description": "Careless Driving"
+                },
+                {
+                    "section": "3111",
+                    "description": "Obedience to Traffic-Control Devices."
+                },
+                {
+                    "section": "3802(a)(1)",
+                    "description": "DUI - General Impairment"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.406702690440184",
+            "lng": "-79.967540050783143",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "01:25:00",
+            "incidentnumber": "14176498",
+            "address": "Bingham St & Braddish St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "South Side Flats",
+            "councildistrict": "3",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.3931987",
+            "lng": "-79.986534",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "02:48:00",
+            "incidentnumber": "14176549",
+            "address": "2100 Brownsville Road, Pittsburgh, PA 15210, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Carrick",
+            "councildistrict": "4",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "903",
+                    "description": "Criminal Conspiracy."
+                },
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4279311",
+            "lng": "-79.9840559",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "02:52:00",
+            "incidentnumber": "14176526",
+            "address": "South 14th Street, Pittsburgh, PA 15203, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "South Side Flats",
+            "councildistrict": "3",
+            "zipcode": "15203",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                },
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.396120546854483",
+            "lng": "-79.986420691233604",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "09:10:00",
+            "incidentnumber": "14170632",
+            "address": "100 block Poplargrove St",
+            "type": "ARREST",
+            "age": "15",
+            "gender": "M",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "4",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                },
+                {
+                    "section": "3925",
+                    "description": "Receiving Stolen Property."
+                },
+                {
+                    "section": "1501",
+                    "description": "Drivers Required to be Licensed."
+                },
+                {
+                    "section": "4303",
+                    "description": "General Lighting Requirements."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.396120546854483",
+            "lng": "-79.986420691233604",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "09:10:00",
+            "incidentnumber": "14170632",
+            "address": "100 block Poplargrove St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "4",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                },
+                {
+                    "section": "3925",
+                    "description": "Receiving Stolen Property."
+                },
+                {
+                    "section": "1501",
+                    "description": "Drivers Required to be Licensed."
+                },
+                {
+                    "section": "4303",
+                    "description": "General Lighting Requirements."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4258025",
+            "lng": "-79.9765344",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "09:30:00",
+            "incidentnumber": "14176807",
+            "address": "Mary Street & South 21st Street, Pittsburgh, PA 15203, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "South Side Flats",
+            "councildistrict": "3",
+            "zipcode": "15203",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                },
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                },
+                {
+                    "section": "1501",
+                    "description": "Drivers Required to be Licensed."
+                },
+                {
+                    "section": "3928",
+                    "description": "Unauthorized Use of Automobile and Other Vehicles."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.391247",
+            "lng": "-79.9902071",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:00:00",
+            "incidentnumber": "14176939",
+            "address": "Parkfield Street, Pittsburgh, PA 15210, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Carrick",
+            "councildistrict": "4",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "3503",
+                    "description": "Criminal Trespass"
+                },
+                {
+                    "section": "901",
+                    "description": "Criminal Attempt"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4511504",
+            "lng": "-79.8921731",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "06:32:00",
+            "incidentnumber": "14176594",
+            "address": "500 North Braddock Avenue, Pittsburgh, PA 15208, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Highland Park",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "5902(a)(2)",
+                    "description": "Prostitution - Loitering for purpose of"
+                },
+                {
+                    "section": "5902(a)(1)",
+                    "description": "Prostitution"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.38962",
+            "lng": "-80.0148169",
+            "zone": "Zone 6",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "11:30:00",
+            "incidentnumber": "14158356",
+            "address": "1200 Chelton Avenue, Pittsburgh, PA 15226, USA",
+            "type": "ARREST",
+            "age": "34",
+            "gender": "F",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "4",
+            "zipcode": "15226",
+            "sections": [
+                {
+                    "section": "3921(a)",
+                    "description": "Theft by Unlawful Taking or Disposition - Movable item"
+                },
+                {
+                    "section": "3925",
+                    "description": "Receiving Stolen Property."
+                },
+                {
+                    "section": "4106",
+                    "description": "Access Device Fraud"
+                },
+                {
+                    "section": "903",
+                    "description": "Criminal Conspiracy."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.3893456",
+            "lng": "-79.996471",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "10:00:00",
+            "incidentnumber": "14152854",
+            "address": "2200 Dartmore Street, Pittsburgh, PA 15210, USA",
+            "type": "ARREST",
+            "age": "18",
+            "gender": "M",
+            "neighbornood": "Overbrook",
+            "councildistrict": "4",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "3921(a)",
+                    "description": "Theft by Unlawful Taking or Disposition - Movable item"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.404753",
+            "lng": "-79.979798",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "10:55:00",
+            "incidentnumber": "14176707",
+            "address": "600 Laughlin Avenue, Pittsburgh, PA 15210, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Carrick",
+            "councildistrict": "4",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.385802",
+            "lng": "-79.9819349",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "11:45:00",
+            "incidentnumber": "14164333",
+            "address": "2500 Edgar Street, Pittsburgh, PA 15227, USA",
+            "type": "ARREST",
+            "age": "17",
+            "gender": "M",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "4",
+            "zipcode": "15227",
+            "sections": [
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                },
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4209245",
+            "lng": "-80.0035136",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "12:00:00",
+            "incidentnumber": "14176987",
+            "address": "200 East Warrington Avenue, Pittsburgh, PA 15210, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Beltzhoover",
+            "councildistrict": "3",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "4101",
+                    "description": "Forgery."
+                },
+                {
+                    "section": "3921(a)",
+                    "description": "Theft by Unlawful Taking or Disposition - Movable item"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4278427",
+            "lng": "-79.9748029",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "12:50:00",
+            "incidentnumber": "14176808",
+            "address": "100 South 22nd Street, Pittsburgh, PA 15203, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "South Side Flats",
+            "councildistrict": "3",
+            "zipcode": "15203",
+            "sections": [
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4199281",
+            "lng": "-79.9642967",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "14:45:00",
+            "incidentnumber": "14176902",
+            "address": "3200 Josephine Street, Pittsburgh, PA 15203, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "South Side Slopes",
+            "councildistrict": "3",
+            "zipcode": "15203",
+            "sections": [
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                },
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4144143",
+            "lng": "-79.9880079",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "17:00:00",
+            "incidentnumber": "14177032",
+            "address": "100 Bausman Street, Pittsburgh, PA 15210, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Knoxville",
+            "councildistrict": "3",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.414083",
+            "lng": "-79.993088",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "17:30:00",
+            "incidentnumber": "14177060",
+            "address": "300 Bausman Street, Pittsburgh, PA 15210, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Knoxville",
+            "councildistrict": "3",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4253944",
+            "lng": "-79.9678965",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "17:30:00",
+            "incidentnumber": "14165995",
+            "address": "Jane Street & South 27th Street, Pittsburgh, PA 15203, USA",
+            "type": "ARREST",
+            "age": "34",
+            "gender": "M",
+            "neighbornood": "South Side Flats",
+            "councildistrict": "3",
+            "zipcode": "15203",
+            "sections": [
+                {
+                    "section": "3925",
+                    "description": "Receiving Stolen Property."
+                },
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4301013",
+            "lng": "-79.9803938",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "18:00:00",
+            "incidentnumber": "14177019",
+            "address": "1800 Fox Way, Pittsburgh, PA 15203, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "South Side Flats",
+            "councildistrict": "3",
+            "zipcode": "15203",
+            "sections": [
+                {
+                    "section": "3745",
+                    "description": "Accidents Involving Damage to Unattended Veh.or Prop."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4439587",
+            "lng": "-80.0278044",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "18:30:00",
+            "incidentnumber": "14120497",
+            "address": "West Carson Street & South Main Street, Pittsburgh, PA 15219, USA",
+            "type": "ARREST",
+            "age": "",
+            "gender": "M",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "2",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "9015",
+                    "description": "Failure To Appear\/Arrest on Attachment Order"
+                },
+                {
+                    "section": "5503",
+                    "description": "Disorderly Conduct."
+                },
+                {
+                    "section": "5505",
+                    "description": "Public Drunkenness"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4278547",
+            "lng": "-79.9452046",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "18:55:00",
+            "incidentnumber": "14158676",
+            "address": "Anthony Street, Pittsburgh, PA 15207, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Strip District",
+            "councildistrict": "5",
+            "zipcode": "15207",
+            "sections": [
+                {
+                    "section": "9494",
+                    "description": "Summary Warrants"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.436841",
+            "lng": "-79.9534609",
+            "zone": "Zone 4",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "00:55:00",
+            "incidentnumber": "14176472",
+            "address": "Cable Place, Pittsburgh, PA 15213, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Central Oakland",
+            "councildistrict": "3",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "9123",
+                    "description": "Miscellaneous Fire Other Investigation to Continue"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4331311",
+            "lng": "-79.9556526",
+            "zone": "Zone 4",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "01:45:00",
+            "incidentnumber": "14176499",
+            "address": "Hardie Way, Pittsburgh, PA 15213, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "South Oakland",
+            "councildistrict": "3",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "3701",
+                    "description": "Robbery."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4380278",
+            "lng": "-79.9276861",
+            "zone": "Zone 4",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "05:27:00",
+            "incidentnumber": "14176567",
+            "address": "5600 Forbes Avenue, Pittsburgh, PA 15217, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Squirrel Hill North",
+            "councildistrict": "5",
+            "zipcode": "15217",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.45093817834195",
+            "lng": "-79.954993701332882",
+            "zone": "Zone 4",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "08:45:00",
+            "incidentnumber": "14176649",
+            "address": "4000 block Bigelow Blvd",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "North Oakland",
+            "councildistrict": "6",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                },
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.45536",
+            "lng": "-79.922754",
+            "zone": "Zone 4",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "11:00:00",
+            "incidentnumber": "14176738",
+            "address": "400 Shady Avenue, Pittsburgh, PA 15206, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Shadyside",
+            "councildistrict": "8",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3745",
+                    "description": "Accidents Involving Damage to Unattended Veh.or Prop."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4520137",
+            "lng": "-79.914933",
+            "zone": "Zone 4",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "11:00:00",
+            "incidentnumber": "14177135",
+            "address": "6700 Reynolds Street, Pittsburgh, PA 15206, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Point Breeze",
+            "councildistrict": "8",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4032656",
+            "lng": "-79.940248",
+            "zone": "Zone 4",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "13:46:00",
+            "incidentnumber": "14176824",
+            "address": "Almeda Street, Pittsburgh, PA 15207, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Hazelwood",
+            "councildistrict": "5",
+            "zipcode": "15207",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                },
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                },
+                {
+                    "section": "2701(a)(1)",
+                    "description": "Simple Assault - Intent., Know., Reckless.Cause Bod. Injury"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.419333",
+            "lng": "-79.904095",
+            "zone": "Zone 4",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:10:00",
+            "incidentnumber": "14176900",
+            "address": "1200 Pocono Street, Pittsburgh, PA 15218, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Swisshelm Park",
+            "councildistrict": "5",
+            "zipcode": "15218",
+            "sections": [
+                {
+                    "section": "029",
+                    "description": "Missing Juvenile"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4526309",
+            "lng": "-79.9103604",
+            "zone": "Zone 4",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "17:25:00",
+            "incidentnumber": "14176992",
+            "address": "Penn Avenue & South Linden Avenue, Pittsburgh, PA 15208, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Point Breeze",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "3743",
+                    "description": "Accidents Involving Damage to Attended Veh. or Property"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.444237",
+            "lng": "-79.897476",
+            "zone": "Zone 4",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "17:30:00",
+            "incidentnumber": "14177160",
+            "address": "400 South Braddock Avenue, Pittsburgh, PA 15221, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Point Breeze",
+            "councildistrict": "9",
+            "zipcode": "15221",
+            "sections": [
+                {
+                    "section": "3921(a)",
+                    "description": "Theft by Unlawful Taking or Disposition - Movable item"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4584301",
+            "lng": "-79.9300483",
+            "zone": "Zone 4",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "18:50:00",
+            "incidentnumber": "14177065",
+            "address": "5900 Centre Avenue, Pittsburgh, PA 15206, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Shadyside",
+            "councildistrict": "8",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3743",
+                    "description": "Accidents Involving Damage to Attended Veh. or Property"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4120339",
+            "lng": "-79.9382808",
+            "zone": "Zone 4",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "21:10:00",
+            "incidentnumber": "14158677",
+            "address": "400 Flowers Avenue, Pittsburgh, PA 15207, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Hazelwood",
+            "councildistrict": "5",
+            "zipcode": "15207",
+            "sections": [
+                {
+                    "section": "9494",
+                    "description": "Summary Warrants"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4715064",
+            "lng": "-79.9262716",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "00:01:00",
+            "incidentnumber": "14177081",
+            "address": "5600 Stanton Avenue, Pittsburgh, PA 15206, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Highland Park",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3745",
+                    "description": "Accidents Involving Damage to Unattended Veh.or Prop."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4667811",
+            "lng": "-79.9448635",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "01:00:00",
+            "incidentnumber": "14176467",
+            "address": "4900 Broad Street, Pittsburgh, PA 15224, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Garfield",
+            "councildistrict": "9",
+            "zipcode": "15224",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4667811",
+            "lng": "-79.9448635",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "01:08:00",
+            "incidentnumber": "14176467",
+            "address": "4900 Broad Street, Pittsburgh, PA 15224, USA",
+            "type": "ARREST",
+            "age": "41",
+            "gender": "M",
+            "neighbornood": "Garfield",
+            "councildistrict": "9",
+            "zipcode": "15224",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4527418",
+            "lng": "-79.8891837",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "05:30:00",
+            "incidentnumber": "14176579",
+            "address": "Hamilton Avenue & Brushton Avenue, Pittsburgh, PA 15208, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "5902(a)(2)",
+                    "description": "Prostitution - Loitering for purpose of"
+                },
+                {
+                    "section": "5902(a)(1)",
+                    "description": "Prostitution"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4527418",
+            "lng": "-79.8891837",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "05:30:00",
+            "incidentnumber": "14176579",
+            "address": "Hamilton Avenue & Brushton Avenue, Pittsburgh, PA 15208, USA",
+            "type": "ARREST",
+            "age": "47",
+            "gender": "M",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "5902(a)(2)",
+                    "description": "Prostitution - Loitering for purpose of"
+                },
+                {
+                    "section": "5902(a)(1)",
+                    "description": "Prostitution"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4531702",
+            "lng": "-79.8911064",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "06:15:00",
+            "incidentnumber": "14176587",
+            "address": "Hamilton Avenue & North Braddock Avenue, Pittsburgh, PA 15208, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "5902(a)(2)",
+                    "description": "Prostitution - Loitering for purpose of"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                },
+                {
+                    "section": "5902(a)(1)",
+                    "description": "Prostitution"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4531702",
+            "lng": "-79.8911064",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "06:15:00",
+            "incidentnumber": "14176587",
+            "address": "Hamilton Avenue & North Braddock Avenue, Pittsburgh, PA 15208, USA",
+            "type": "ARREST",
+            "age": "31",
+            "gender": "F",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "5902(a)(2)",
+                    "description": "Prostitution - Loitering for purpose of"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                },
+                {
+                    "section": "5902(a)(1)",
+                    "description": "Prostitution"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4531702",
+            "lng": "-79.8911064",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "06:15:00",
+            "incidentnumber": "14176587",
+            "address": "Hamilton Avenue & North Braddock Avenue, Pittsburgh, PA 15208, USA",
+            "type": "ARREST",
+            "age": "43",
+            "gender": "F",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "5902(a)(2)",
+                    "description": "Prostitution - Loitering for purpose of"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                },
+                {
+                    "section": "5902(a)(1)",
+                    "description": "Prostitution"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4511504",
+            "lng": "-79.8921731",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "07:55:00",
+            "incidentnumber": "14176594",
+            "address": "500 North Braddock Avenue, Pittsburgh, PA 15208, USA",
+            "type": "ARREST",
+            "age": "54",
+            "gender": "F",
+            "neighbornood": "Highland Park",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "5902(a)(2)",
+                    "description": "Prostitution - Loitering for purpose of"
+                },
+                {
+                    "section": "5902(a)(1)",
+                    "description": "Prostitution"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4604003",
+            "lng": "-79.9137409",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "08:30:00",
+            "incidentnumber": "14176718",
+            "address": "Frankstown Avenue & Enterprise Street, Pittsburgh, PA 15206, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Larimer",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4599236",
+            "lng": "-79.9294793",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "10:30:00",
+            "incidentnumber": "14176697",
+            "address": "South Euclid Avenue, Pittsburgh, PA 15206, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Liberty",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3304",
+                    "description": "Criminal Mischief."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.464351",
+            "lng": "-79.9384539",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "12:00:00",
+            "incidentnumber": "14176771",
+            "address": "5300 Penn Avenue, Pittsburgh, PA 15224, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bloomfield",
+            "councildistrict": "7",
+            "zipcode": "15224",
+            "sections": [
+                {
+                    "section": "3934",
+                    "description": "Theft from Vehicle"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.464615",
+            "lng": "-79.922397",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "14:00:00",
+            "incidentnumber": "14176844",
+            "address": "400 North Highland Avenue, Pittsburgh, PA 15206, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Liberty",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3929",
+                    "description": "Retail Theft."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.471772",
+            "lng": "-79.89755",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "14:00:00",
+            "incidentnumber": "14176839",
+            "address": "7000 Churchland Street, Pittsburgh, PA 15206, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Lincoln-Lemington-Belmar",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.464615",
+            "lng": "-79.922397",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:00:00",
+            "incidentnumber": "14176844",
+            "address": "400 North Highland Avenue, Pittsburgh, PA 15206, USA",
+            "type": "ARREST",
+            "age": "40",
+            "gender": "F",
+            "neighbornood": "East Liberty",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3929",
+                    "description": "Retail Theft."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.47766",
+            "lng": "-79.935813",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:41:00",
+            "incidentnumber": "14176897",
+            "address": "1000 Oranmore Street, Pittsburgh, PA 15201, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Stanton Heights",
+            "councildistrict": "9",
+            "zipcode": "15201",
+            "sections": [
+                {
+                    "section": "9016",
+                    "description": "Check on Elderly Person"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.464615",
+            "lng": "-79.922397",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "15:45:00",
+            "incidentnumber": "14177023",
+            "address": "400 North Highland Avenue, Pittsburgh, PA 15206, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Liberty",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "3745",
+                    "description": "Accidents Involving Damage to Unattended Veh.or Prop."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4511267",
+            "lng": "-79.8857056",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "16:00:00",
+            "incidentnumber": "14176915",
+            "address": "7900 Inglenook Place, Pittsburgh, PA 15208, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "3921",
+                    "description": "Theft by Unlawful Taking or Disposition."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4508119",
+            "lng": "-79.8863827",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "17:15:00",
+            "incidentnumber": "14177000",
+            "address": "7900 Tacoma Street, Pittsburgh, PA 15208, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "3502",
+                    "description": "Burglary."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4535384",
+            "lng": "-79.8927897",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "17:50:00",
+            "incidentnumber": "14176970",
+            "address": "7500 Hamilton Avenue, Pittsburgh, PA 15208, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "9501",
+                    "description": "Bench Warrant"
+                },
+                {
+                    "section": "4914(A)",
+                    "description": "False Identification to Law Enforcement"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4535384",
+            "lng": "-79.8927897",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "17:50:00",
+            "incidentnumber": "14176970",
+            "address": "7500 Hamilton Avenue, Pittsburgh, PA 15208, USA",
+            "type": "ARREST",
+            "age": "34",
+            "gender": "M",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "9501",
+                    "description": "Bench Warrant"
+                },
+                {
+                    "section": "4914(A)",
+                    "description": "False Identification to Law Enforcement"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4535384",
+            "lng": "-79.8927897",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "17:50:00",
+            "incidentnumber": "14176970",
+            "address": "7500 Hamilton Avenue, Pittsburgh, PA 15208, USA",
+            "type": "ARREST",
+            "age": "45",
+            "gender": "M",
+            "neighbornood": "Homewood South",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "9501",
+                    "description": "Bench Warrant"
+                },
+                {
+                    "section": "4914(A)",
+                    "description": "False Identification to Law Enforcement"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4648724",
+            "lng": "-79.9273732",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "19:26:00",
+            "incidentnumber": "14177050",
+            "address": "5700 Rural Street, Pittsburgh, PA 15206, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "East Liberty",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9496",
+                    "description": "Dead on Arrival (DOA)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.460049",
+            "lng": "-79.886429",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "19:45:00",
+            "incidentnumber": "14177143",
+            "address": "1200 Mohler Street, Pittsburgh, PA 15208, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Homewood North",
+            "councildistrict": "9",
+            "zipcode": "15208",
+            "sections": [
+                {
+                    "section": "029",
+                    "description": "Missing Juvenile"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4727056",
+            "lng": "-79.8889282",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "20:00:00",
+            "incidentnumber": "14177069",
+            "address": "7200 Verona Boulevard, Pittsburgh, PA 15235, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Lincoln-Lemington-Belmar",
+            "councildistrict": "9",
+            "zipcode": "15235",
+            "sections": [
+                {
+                    "section": "9497",
+                    "description": "Aided Case"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.455539",
+            "lng": "-79.950096",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "20:35:00",
+            "incidentnumber": "14177109",
+            "address": "100 Morewood Avenue, Pittsburgh, PA 15213, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Bloomfield",
+            "councildistrict": "7",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                },
+                {
+                    "section": "3503",
+                    "description": "Criminal Trespass"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.455539",
+            "lng": "-79.950096",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "21:00:00",
+            "incidentnumber": "14177109",
+            "address": "100 Morewood Avenue, Pittsburgh, PA 15213, USA",
+            "type": "ARREST",
+            "age": "35",
+            "gender": "F",
+            "neighbornood": "Bloomfield",
+            "councildistrict": "7",
+            "zipcode": "15213",
+            "sections": [
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                },
+                {
+                    "section": "3503",
+                    "description": "Criminal Trespass"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.470323",
+            "lng": "-79.9085006",
+            "zone": "Zone 5",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "21:25:00",
+            "incidentnumber": "14177139",
+            "address": "1400 Washington Boulevard, Pittsburgh, PA 15206, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Lincoln-Lemington-Belmar",
+            "councildistrict": "9",
+            "zipcode": "15206",
+            "sections": [
+                {
+                    "section": "9501",
+                    "description": "Bench Warrant"
+                },
+                {
+                    "section": "2701",
+                    "description": "Simple Assault."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4036101",
+            "lng": "-80.0333555",
+            "zone": "Zone 6",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "03:30:00",
+            "incidentnumber": "14176555",
+            "address": "700 Wenzell Avenue, Pittsburgh, PA 15216, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Beechview",
+            "councildistrict": "2",
+            "zipcode": "15216",
+            "sections": [
+                {
+                    "section": "3928",
+                    "description": "Unauthorized Use of Automobile and Other Vehicles."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4574997",
+            "lng": "-80.0767017",
+            "zone": "Zone 6",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "08:44:00",
+            "incidentnumber": "14176640",
+            "address": "1600 Belhurst Avenue, Pittsburgh, PA 15204, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Windgap",
+            "councildistrict": "2",
+            "zipcode": "15204",
+            "sections": [
+                {
+                    "section": "9488",
+                    "description": "False  Burglar Alarm"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4532566",
+            "lng": "-80.0641648",
+            "zone": "Zone 6",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "10:04:00",
+            "incidentnumber": "14176684",
+            "address": "Kelvin Street & Pritchard Street, Pittsburgh, PA 15204, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Sheraden",
+            "councildistrict": "2",
+            "zipcode": "15204",
+            "sections": [
+                {
+                    "section": "9999",
+                    "description": "9999 - (Misc. Incident):"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4117593",
+            "lng": "-80.041278",
+            "zone": "Zone 6",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "10:15:00",
+            "incidentnumber": "14176688",
+            "address": "1300 Carnahan Road, Pittsburgh, PA 15220, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Banksville",
+            "councildistrict": "2",
+            "zipcode": "15220",
+            "sections": [
+                {
+                    "section": "2701(a)(3)",
+                    "description": "Simple Assault - Attempts by Physical Menace"
+                },
+                {
+                    "section": "908",
+                    "description": "Prohibited Offensive Weapons."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4117593",
+            "lng": "-80.041278",
+            "zone": "Zone 6",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "10:30:00",
+            "incidentnumber": "14176688",
+            "address": "1300 Carnahan Road, Pittsburgh, PA 15220, USA",
+            "type": "ARREST",
+            "age": "28",
+            "gender": "F",
+            "neighbornood": "Banksville",
+            "councildistrict": "2",
+            "zipcode": "15220",
+            "sections": [
+                {
+                    "section": "2701(a)(3)",
+                    "description": "Simple Assault - Attempts by Physical Menace"
+                },
+                {
+                    "section": "908",
+                    "description": "Prohibited Offensive Weapons."
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.410443",
+            "lng": "-80.025013",
+            "zone": "Zone 6",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "11:00:00",
+            "incidentnumber": "14176694",
+            "address": "1600 Broadway Avenue, Pittsburgh, PA 15216, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Beechview",
+            "councildistrict": "4",
+            "zipcode": "15216",
+            "sections": [
+                {
+                    "section": "3304(a)(4)",
+                    "description": "CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti, Aerosol Spray Paint, Broad Tip Marker, or Similar)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.396056",
+            "lng": "-79.998403",
+            "zone": "Zone 6",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "11:14:00",
+            "incidentnumber": "14176687",
+            "address": "1700 Saw Mill Run Boulevard, Pittsburgh, PA 15210, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Brookline",
+            "councildistrict": "4",
+            "zipcode": "15210",
+            "sections": [
+                {
+                    "section": "9489",
+                    "description": "Found Property"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.441678617818503",
+            "lng": "-80.035354134024743",
+            "zone": "Zone 6",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "11:45:00",
+            "incidentnumber": "14176760",
+            "address": "Wabash St",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "West End",
+            "councildistrict": "2",
+            "zipcode": "15220",
+            "sections": [
+                {
+                    "section": "2709",
+                    "description": "Harassment (Non-Specific)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4309402",
+            "lng": "-80.0571521",
+            "zone": "Zone 6",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "14:50:00",
+            "incidentnumber": "14176868",
+            "address": "1800 Brett Street, Pittsburgh, PA 15205, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Westwood",
+            "councildistrict": "2",
+            "zipcode": "15205",
+            "sections": [
+                {
+                    "section": "4120",
+                    "description": "Identity Theft"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4017443",
+            "lng": "-80.0165823",
+            "zone": "Zone 6",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "18:55:00",
+            "incidentnumber": "14177025",
+            "address": "Pioneer Avenue & Mayville Avenue, Pittsburgh, PA 15226, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Brookline",
+            "councildistrict": "4",
+            "zipcode": "15226",
+            "sections": [
+                {
+                    "section": "2709(a)(1)",
+                    "description": "Harassment by Physical Contact, or Attempts or Threats"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.458044186776966",
+            "lng": "-79.968972629509267",
+            "zone": "Zone OSC",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "18:19:00",
+            "incidentnumber": "14176999",
+            "address": "Harmar Dr",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Outside City",
+            "councildistrict": "7",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "9094",
+                    "description": "Recovered Stolen Vehicle (OUTSIDE CITY)"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4359335",
+            "lng": "-79.9971487",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "17:15:00",
+            "incidentnumber": "14074443",
+            "address": "600 First Avenue, Pittsburgh, PA 15219, USA",
+            "type": "ARREST",
+            "age": "35",
+            "gender": "M",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "6",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "9015",
+                    "description": "Failure To Appear\/Arrest on Attachment Order"
+                },
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "13(a)(32)",
+                    "description": "Paraphernalia - Use or Possession"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.4439587",
+            "lng": "-80.0278044",
+            "zone": "Zone 3",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "18:45:00",
+            "incidentnumber": "14120497",
+            "address": "West Carson Street & South Main Street, Pittsburgh, PA 15219, USA",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "2",
+            "zipcode": "15219",
+            "sections": [
+                {
+                    "section": "9015",
+                    "description": "Failure To Appear\/Arrest on Attachment Order"
+                },
+                {
+                    "section": "5503",
+                    "description": "Disorderly Conduct."
+                },
+                {
+                    "section": "5505",
+                    "description": "Public Drunkenness"
+                }
+            ]
+        }
+    },
+    {
+        "incident": {
+            "lat": "40.438091155451616",
+            "lng": "-80.001853342344887",
+            "zone": "Zone 2",
+            "incidentdate": "2014-09-04",
+            "incidenttime": "06:55:00",
+            "incidentnumber": "14176618",
+            "address": "300 block Blvd Of The Allies",
+            "type": "OFFENSE 2.0",
+            "age": "",
+            "gender": "",
+            "neighbornood": "Golden Triangle\/Civic",
+            "councildistrict": "6",
+            "zipcode": "15222",
+            "sections": [
+                {
+                    "section": "13(a)(16)",
+                    "description": "Possession of Controlled Substance"
+                },
+                {
+                    "section": "5123",
+                    "description": "Contraband."
+                }
+            ]
+        }
+    }
+]
